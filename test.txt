@@ -1,2 +1,3 @@
 hello git
 modify this txt
+add 3th row
